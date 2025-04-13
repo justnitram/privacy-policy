@@ -20,8 +20,8 @@ Our apps are free and supported by third-party ads. These ads may collect non-pe
 Please review the privacy policies of the ad networks we use:
 - [Google AdMob Privacy Policy](https://www.google.com/intl/en/policies/privacy/)
 - [ChartBoost Privacy Policy](https://www.chartboost.com/privacy/)
-- [Tapjoy Privacy Policy:](https://www.tapjoy.com/legal/privacy-policy/)
-- [nMobi Privacy Policy:](https://www.inmobi.com/privacy-policy/)
+- [Tapjoy Privacy Policy](https://www.tapjoy.com/legal/privacy-policy/)
+- [nMobi Privacy Policy](https://www.inmobi.com/privacy-policy/)
 
 Our apps may also include links to third-party websites or services. We are not responsible for their content or privacy practices, so we recommend reviewing their policies before interacting with them. 
 
