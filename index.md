@@ -27,8 +27,8 @@ Our apps may also include links to third-party websites or services. We are not 
 
 ---
 
-## 3. Entertainment and Learning Purpose</h2>
-Our apps are designed as entertainment and/or learning tool. The app provides content aimed at enhancing your learning experience or providing enjoyable entertainment. We do not use your data for any other purpose and are committed to ensuring that your experience is fun and enriching without compromising your privacy.</p>
+## 3. Entertainment and Learning Purpose
+Our apps are designed as entertainment and/or learning tool. The app provides content aimed at enhancing your learning experience or providing enjoyable entertainment. We do not use your data for any other purpose and are committed to ensuring that your experience is fun and enriching without compromising your privacy.
 
 ---
 
